@@ -1,0 +1,38 @@
+
+ table {
+	border: 1px solid black; background:#000000;
+  border-collapse: collapse;
+}
+ th, td {	
+  border: 1px solid black; background:#000000;
+  border-collapse: collapse;
+}
+  
+  th { 
+  font-size:40px;
+  padding-top:10px; padding color:green;
+  padding-bottom:20px;
+}
+
+.blackhead{
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:black;
+	text-align:center;
+}
+.skil{
+	word-spacing:2cm;
+}
+.containor{
+	padding-left:30px;
+	display:flex;
+	justify-content:left;
+}
+.ima{
+	flex-basis:12%;
+}
+.Dhanush{
+	padding-left:50px;
+
+}
